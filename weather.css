@@ -1,0 +1,25 @@
+/* git clone https://github.com/ddiinnxx/weather_php */
+/* more at www.ddiinnxx.com */
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.button {
+	background-color: #f44336; /* Red-ish */
+	border: none;
+	color: white;
+	padding: 10px 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	border-radius: 12px;
+	float: right;
+}
+
+#map {
+	width: 100%;
+	height: 240px;
+	background-color: grey;
+}
